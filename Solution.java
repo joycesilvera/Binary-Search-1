@@ -105,7 +105,7 @@ class InfiniteArraySearchSolution {
     }
 }
 
-public class Sample {
+public class Solution {
     public static void main(String[] args) {
         // Test searchMatrix
         SearchMatrixSolution sms = new SearchMatrixSolution();
